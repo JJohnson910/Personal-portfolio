@@ -97,9 +97,9 @@ button {
 }
 
 button:hover {
-    background-color: #45a049;
+    body {
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
 }
-
 /* Make Website Mobile Friendly */
 @media (max-width: 768px) {
     nav ul {
@@ -126,3 +126,4 @@ button:hover {
 header {
     animation: fadeIn 2s ease-in-out;
 }
+body {
